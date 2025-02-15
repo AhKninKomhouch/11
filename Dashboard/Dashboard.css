@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300..700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+*{
+    font-family: "Quicksand", serif;
+}
+.nav-left{
+    min-width: 250PX;
+    background: rgb(0, 32, 64);
+    height: 100vh;
+    color: white;
+
+}
+.nav h1 ,.nav i{
+    font-size: 20px;
+}
+.nav-menu .menu{
+    font-size: 1rem;
+}
+.nav-menu{
+    padding-top: 1rem;
+    cursor: pointer;
+}
+.nav-menu:hover{
+    background-color: hsl(213, 100%, 61%);
+}
+.main{
+    background-color: #b8b3b3af;
+}
+.bnt{
+    background-color:rgb(1, 48, 102);
+    border: none;
+    padding: 2px;
+    color: aliceblue;
+}
+.search{
+    border: none;
+}
+.profile img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    /* margin-right: 30px; */
+    border:1px solid rgba(116, 115, 115, 0.653);
+}
+.card-nav .mark-text-card{
+    background-color: rgb(76, 232, 70);
+    border-radius: 5px;
+    font-size: 0.5rem;
+}
+.codszword{
+    background-color: rgb(116, 115, 115, 0.653);
+    padding: 0.5rem;
+}
+.codszword h2{
+    font-size: 1.3rem;
+}
+.table-nav{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.table-1{
+    background-color: rgb(0, 124, 248); 
+    color: white;
+}
