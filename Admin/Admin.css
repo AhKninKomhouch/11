@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+  font-family: "Rubik", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+
+}
+
+.menu-nav {
+    min-width: 240px;
+    background-color: #072642;
+    color: white;
+    height: 100vh;
+}
+
+.menu-nav .brand i.lni {
+  font-size: 32px;
+}
+
+.meun-nav .brand span {
+  font-size:  1.2rem;
+}
+
+.menu-list i {
+  font-size: 22px;
+}
+
+.menu-list a:hover {
+  background-color: #555;
+}
+
+.menu-footer:hover {
+  background-color: red;
+}
+
+.main {
+  
+}
